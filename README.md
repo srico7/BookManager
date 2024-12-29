@@ -1,2 +1,2 @@
 # BookManager
-Book management web application with Angular frontend and ASP.NET backend.
+Book management web application with Angular 19 frontend and ASP.NET 8 backend.
